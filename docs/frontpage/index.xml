@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Frontpages on Data Science</title>
+    <link>https://datascience-uoit.github.io/frontpage/</link>
+    <description>Recent content in Frontpages on Data Science</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://datascience-uoit.github.io/frontpage/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Data Science Specialization</title>
+      <link>https://datascience-uoit.github.io/frontpage/frontpage/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datascience-uoit.github.io/frontpage/frontpage/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;Starting Fall 2017, Computer Science will offer a four-year program with a Data
+Science specialization.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Graduates of the Data Science specialization will have a solid understanding of
+computer science. Additionally, these students will focus on developing
+knowledge, skills and tools that will set them up for success in the highly
+lucrative and desirable data science job market. Data Science specialization
+students will develop problem-solving, critical, analytical, computational and
+communication skills that will enable them to turn vast quantities of data into
+insight. Specific learning outcomes include:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Develop a solid understanding of the theoretical foundation of data science.&lt;/li&gt;
+&lt;li&gt;Achieve a strong command over programming and computational tools to
+effectively handle data with volume and complexity.&lt;/li&gt;
+&lt;li&gt;Gain working knowledge over a range of algorithms, methods and systems for
+performing data analysis on real-life datasets.&lt;/li&gt;
+&lt;li&gt;Attain a good understanding of the applications of data science across a
+variety of domains.&lt;/li&gt;
+&lt;li&gt;Learn fundamentals of interactive visual analytics.&lt;/li&gt;
+&lt;li&gt;Acquire critical and problem solving skills to extract knowledge and
+understanding from large volumes data.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The Data Science specialization is in response to the urgent need for
+individuals capable of turning vast quantities of data into insight. Individuals
+with this ability, often called data scientists, are highly sought after in a
+variety of industries, including health care, finance and business consultancy.
+UOIT’s Computer Science graduates with Data Science specialization will be in
+high demand in both government and private sectors.&lt;/p&gt;
+
+&lt;p&gt;Courses in the Data Science specialization are completed in addition to the required
+courses in the Computer Science major.  Data Science specific courses include:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Simulation and Modeling&lt;/li&gt;
+&lt;li&gt;Machine Learning&lt;/li&gt;
+&lt;li&gt;Big Data Analytics&lt;/li&gt;
+&lt;li&gt;Information Visualization&lt;/li&gt;
+&lt;li&gt;Computer Vision&lt;/li&gt;
+&lt;li&gt;Web Application Development&lt;/li&gt;
+&lt;li&gt;Introduction to Probability Theory (&lt;em&gt;elective&lt;/em&gt;)&lt;/li&gt;
+&lt;li&gt;Mathematical Modeling (&lt;em&gt;elective&lt;/em&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
