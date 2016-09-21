@@ -6,3 +6,6 @@ all:
 pub:
 	mkdir -p ./docs/
 	hugo -d ./docs/
+	git add ./docs
+	git commit -m 'deploy'
+	git push
