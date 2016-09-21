@@ -1,0 +1,10 @@
+{{ partial "header.html" . }}
+<!-- Include the content -->
+<div class="body"
+     style="max-width: 600px">
+{{ range $i, $p := .Site.Sections.frontpage }}
+    <h1>{{$p.Page.Title}}</h1>
+    <div class="content">{{$p.Page.Content}}</div>
+{{ end }}
+</div>
+{{ partial "footer.html" . }}

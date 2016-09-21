@@ -1,0 +1,7 @@
+baseurl = "https://datascience-uoit.github.io"
+languageCode = "en-us"
+title = "Data Science"
+
+[params]
+
+

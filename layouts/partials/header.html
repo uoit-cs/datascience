@@ -1,0 +1,26 @@
+<!doctype html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>{{ .Title }}</title>
+        <link rel="stylesheet" href="{{.Site.BaseURL}}/css/bootstrap.min.css">
+        <link rel="stylesheet" href="{{.Site.BaseURL}}/style.css">
+    </head>
+    <body style="padding: 20px">
+        <div class="container">
+            <div class="row" 
+                 style="margin-bottom: 5em;
+                        color: #0077ca;">
+                <a style="display: table"
+                    href="http://www.science.uoit.ca/">
+                    <img style="display: table-cell;
+                                height : 60px;
+                                padding-right: 2.18em;"
+                        src="{{.Site.BaseURL}}/UOIT_RGB.jpg"></img>
+                    <span style="display: table-cell;
+                                 padding-left: 2.18em;
+                                 border-left: 1px solid #003c71;
+                                 vertical-align: bottom;">
+                        Faculty of Science<br>&nbsp;</span>
+                </a>
+            </div>
