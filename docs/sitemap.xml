@@ -2,11 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>/</loc>
+    <loc>https://uoit-cs.github.io/</loc>
   </url>
   
   <url>
-    <loc>/frontpage/frontpage/</loc>
+    <loc>https://uoit-cs.github.io/frontpage/frontpage/</loc>
   </url>
   
 </urlset>

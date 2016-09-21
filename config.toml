@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://uoit-cs.github.io"
 languageCode = "en-us"
 title = "Data Science"
 
