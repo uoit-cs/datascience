@@ -2,11 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://datascience-uoit.github.io/</loc>
+    <loc>/</loc>
   </url>
   
   <url>
-    <loc>https://datascience-uoit.github.io/frontpage/frontpage/</loc>
+    <loc>/frontpage/frontpage/</loc>
   </url>
   
 </urlset>
